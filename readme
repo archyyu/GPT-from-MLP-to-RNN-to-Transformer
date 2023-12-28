@@ -1,1 +1,7 @@
-an example of using RNN as GPT
+this is a repo with a series of model to generate text
+from base MLP to RNN, to GRU to LSTM, maybe in the future I will add transformer
+
+I add this repo because I want to further my study at Deeplearning.
+if everything goes smooth, I will pursue a phd position.
+
+wish me best
