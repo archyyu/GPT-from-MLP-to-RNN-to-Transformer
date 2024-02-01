@@ -1,7 +1,17 @@
 this is a repo with a series of model to generate text
-from base MLP to RNN, to GRU to LSTM, maybe in the future I will add transformer
+from base MLP to RNN, to GRU to LSTM, maybe in the future I will add attentoin
 
 I add this repo because I want to further my study at Deeplearning.
 if everything goes smooth, I will pursue a phd position.
 
 wish me best
+
+
+right now, I have added the transformer model to generate new characters.
+
+only issue with this repo is that, I added an deep rnn, but the performance of 
+that model is not good. 
+I finnally found it is the first time I try to train a deep neural networks, 
+there should be some tricks
+
+Will continue that process. 
