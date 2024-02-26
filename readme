@@ -1,17 +1,9 @@
-this is a repo with a series of model to generate text
-from base MLP to RNN, to GRU to LSTM, maybe in the future I will add attentoin
+This repository contains a series of models for generating text, ranging from basic MLP to RNN, GRU, and LSTM. Perhaps in the future, I will also add an attention model.
 
-I add this repo because I want to further my study at Deeplearning.
-if everything goes smooth, I will pursue a phd position.
+I created this repo to further my studies in deep learning. If everything goes smoothly, I hope to pursue a PhD position. Wish me the best!
 
-wish me best
+At the moment, I have added a transformer model to generate new characters. The only issue with this repo is that the performance of the deep RNN model I added is not satisfactory. I finally realized that it was my first time attempting to train a deep neural network, so there are likely some tricks I need to learn. I will continue to work on improving the performance of this model.
 
+I finnally tuned the deep RNN to perform better. please check if you are instested.
 
-right now, I have added the transformer model to generate new characters.
-
-only issue with this repo is that, I added an deep rnn, but the performance of 
-that model is not good. 
-I finnally found it is the first time I try to train a deep neural networks, 
-there should be some tricks
-
-Will continue that process. 
+The other superise is adding attention machesnims to the rnn, so in the output of every time step, it will focus differently on previous step. the performance is better than I thought.
